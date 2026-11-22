@@ -23,8 +23,6 @@
 ### 망상회로
 이전 선택을 반영해 생각을 확장할 방향을 제안하는 AI 웹 서비스입니다. Gemini API와 Streamlit으로 구현·배포하고, API 호출 한도와 응답 오류에 캐싱·예외처리를 적용했습니다.
 
-<img src="assets/mangsang.png" alt="망상회로의 아이디어 확장 제안 화면" width="290">
-
 [서비스 체험](https://mangsang-circuit.streamlit.app/) · [코드](https://github.com/jaeeun8953-bot/mangsang)
 
 ### 스토리오븐
