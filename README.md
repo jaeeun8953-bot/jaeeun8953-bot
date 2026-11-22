@@ -36,7 +36,7 @@
 
 [서비스 체험](https://tpowi-your-smart-fridge-9yeg4zz5k2tfsdvibslxxj.streamlit.app/) · [코드](https://github.com/jaeeun8953-bot/TPOWI-Your-Smart-Fridge)
 
-### 수면 유도 화이트비치
+### 수면 유도 슬리핑비치
 보라카이 해변을 테마로 한 휴식용 웹 앱입니다. 모래성을 만들고 진행 상태를 저장할 수 있습니다.
 
  [서비스 체험](https://sleeping-borakay-qjh9x4eowxcffxwktsyvn9.streamlit.app/) ·[코드](https://github.com/jaeeun8953-bot/Sleeping-Beauty)
